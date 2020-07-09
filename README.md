@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey! 👋
+
+My name is Santiago, and I have a passion for solving **hard problems**. Things that you can't find by searching the web or reading a book. Things that stretch me to enormous lengths and make me extraordinarily uncomfortable.
+
+You can find me on [Twitter](https://twitter.com/svpino), [LinkedIn](https://www.linkedin.com/in/svpino/), or my [personal blog](https://blog.svpino.com).
 
 <!--
 **svpino/svpino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
