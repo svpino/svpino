@@ -2,10 +2,10 @@
 
 My name is Santiago, and I'm **software** and **machine learning engineer** with more than two decades of experience building software to solve interesting and —sometimes— hard problems.
 
-I'm obsessed with providing incremental value, shipping early, speed, and quality. I find joy in ambiguity and unknown, and love to work on problems that you can't solve by simply searching the web or reading a book.
+I care deeply about unlocking the power of technology for individuals and businesses, one iteration at a time. Beyond its potential results, the process to develop software it's really important to me. I find joy in ambiguity and unknown, and feel more engaged when working on problems that can't be solved by simply searching the web or reading a book. If I can collaborate with a team of likeminded engineers, even better!
 
 - 🔭 I'm currently working on **Computer Vision** models to augment [Spot](https://www.bostondynamics.com/spot) capabilities.
-- 🌱 I’m currently learning a lot about SageMaker. 
+- 🌱 I'm currently learning a lot about SageMaker. 
 
 ### This is where I've worked during the last 10 years
 
