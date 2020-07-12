@@ -7,41 +7,43 @@ I'm obsessed with providing incremental value, shipping early, speed, and qualit
 - 🔭 I'm currently working on **Computer Vision** models to augment [Spot](https://www.bostondynamics.com/spot) capabilities.
 - 🌱 I’m currently learning a lot about SageMaker. 
 
-## This is where I've worked during the last 10 years
+### This is where I've worked during the last 10 years
 
-### DIRECTOR OF COMPUTER VISION SOLUTIONS
+**DIRECTOR OF COMPUTER VISION SOLUTIONS**
+
 _[Levatas](https://www.levatas.com). Oct 2018 - Present_
 
 I lead a small team of software developers and machine learning engineers in the development of Levatas' flagship product, a platform to augment the productization of machine learning models with human reviews, where I'm the main contributor to the core Python engine.
 
 Furthermore, the majority of my work centers around designing, architecting, and implementing solutions to help operationalize machine learning models running on AWS.
 
-### DIRECTOR OF ENGINEERING | ENGINEER MANAGER | SENIOR SOFTWARE ENGINEER
+**DIRECTOR OF ENGINEERING | ENGINEER MANAGER | SENIOR SOFTWARE ENGINEER**
+
 _[Levatas](https://www.levatas.com). Oct 2010 – Oct 2018._
 
 I joined Levatas in 2010 as a Senior Software Engineer, moved to Engineer Manager three years later, before becoming the director of the department in May 2016. During this time, I had the opportunity to work with a team of around 30 engineers while helping deliver software solutions for companies like IBM, Dell, HSBC, among others.
 
-## My education
+### My education
 
-### MASTER OF SCIENCE (M.Sc.), COMPUTER SCIENCE
+**MASTER OF SCIENCE (M.Sc.), COMPUTER SCIENCE**
+
 _Machine Learning Specialization. Georgia Institute of Technology, 2019. 4.0 GPA_
 
-I was a Teaching Assistant of Graduate Algorithms during two semesters.
+I was a Teaching Assistant of Graduate Algorithms during two semesters. __Coursework:__ Software Architecture and Design, Software Development Process, Algorithms, Software Testing, Machine Learning, Reinforcement Learning, Database Systems, Computer Vision, Human-Computer Interaction.
 
-**Coursework:** Software Architecture and Design, Software Development Process, Algorithms, Software Testing, Machine Learning, Reinforcement Learning, Database Systems, Computer Vision, Human-Computer Interaction.
+**BACHELOR OF SCIENCE (B.S.), INFORMATION TECHNOLOGY**
 
-### BACHELOR OF SCIENCE (B.S.), INFORMATION TECHNOLOGY
 _University of Camaguey, Cuba. 2004. 3.84 GPA_
 
 **Coursework:** Software Engineering, Data Structures and Algorithms, Database Design, File Structures, Artificial Intelligence, Information Technology.
 
-### OTHER CERTIFICATIONS
+**OTHER CERTIFICATIONS**
 
 TensorFlow Developer Certificate (Google), Machine Learning (Standford University), TensorFlow In Practice (deeplearning.ai).
 
 I've also accumulated seven different certifications from 2001 to 2015 covering OO Concepts, Java, C, Javascript, C# development, Mobile and Google's App Engine development with Java.
 
-## My most relevant technical skills
+### My most relevant technical skills
 
 These are the highlights of the skills I consider to be the keystone of my abilities:
 
@@ -52,7 +54,7 @@ These are the highlights of the skills I consider to be the keystone of my abili
 * I have solid experience dealing with **relational databases** (mainly MySQL), and **non-relational** ones (Amazon's DynamoDB, Google's Firestore, and MongoDB.)
 * I've done a lot of front-end development and at some point I was pretty good using **Angular**.
 
-## Some of the things I've built
+### Some of the things I've built
 
 It's hard to decide what things should make it into this list, so I'm opting for a combination of private and public projects where I've participated over the last ten years.
 
@@ -65,7 +67,7 @@ It's hard to decide what things should make it into this list, so I'm opting for
 * Some [really cool](https://github.com/svpino/lunar-lander) and [interesting](https://github.com/svpino/cs7641-assignment4) projects during my Masters that have become popular solutions to their respective problems.
 * A full [Android application](https://github.com/svpino/longhorn) to follow stock tickers from different markets around the world.
 
-## Other accomplishments
+### Other accomplishments
 
 * I love to write. I contribute Python articles to the [Real Python](https://realpython.com/sorting-algorithms-python/) website.
 * I won a bunch of medals competing nationally on Computer Science. Since that time I've loved algorithms and data structures
