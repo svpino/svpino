@@ -71,5 +71,5 @@ It's hard to decide what things should make it into this list, so I'm opting for
 * I won a bunch of medals competing nationally on Computer Science. Since that time I've loved algorithms and data structures
 * I have a beautiful family. For sure my best accomplishment by far.
 
-📫  You can find me on [Twitter](https://twitter.com/svpino), [LinkedIn](https://www.linkedin.com/in/svpino/), or my [personal blog](https://blog.svpino.com).
+📫  You can find me on [Twitter](https://twitter.com/svpino) or [LinkedIn](https://www.linkedin.com/in/svpino/).
 
