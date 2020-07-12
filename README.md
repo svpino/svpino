@@ -1,6 +1,9 @@
 ### Hey! 👋
 
-My name is Santiago, and I have a passion for solving **hard problems**. Things that you can't find by searching the web or reading a book. Things that stretch me to enormous lengths and make me extraordinarily uncomfortable.
+My name is Santiago, and I'm **software** and **machine learning engineer** with more than two decades of experience building software to solve interesting and —sometimes— hard problems.
+
+I'm obsessed with providing incremental value, shipping early, speed, and quality. I find joy in ambiguity and unknown, and love to work on problems that you can't solve by simply searching the web or reading a book.
+
 
 You can find me on [Twitter](https://twitter.com/svpino), [LinkedIn](https://www.linkedin.com/in/svpino/), or my [personal blog](https://blog.svpino.com).
 
