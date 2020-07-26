@@ -37,7 +37,7 @@ _University of Camaguey, Cuba. 2004. 3.84 GPA_
 
 **OTHER CERTIFICATIONS**
 
-TensorFlow Developer Certificate (Google), Machine Learning (Standford University), TensorFlow In Practice (deeplearning.ai).
+[TensorFlow Developer Certificate (Google)](images/tensorflo-developer-certificate.png), Machine Learning (Standford University), TensorFlow In Practice (deeplearning.ai).
 
 I've also accumulated seven different certifications from 2001 to 2015 covering OO Concepts, Java, C, Javascript, C# development, Mobile and Google's App Engine development with Java.
 
