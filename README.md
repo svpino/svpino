@@ -37,7 +37,7 @@ _University of Camaguey, Cuba. 2004. 3.84 GPA_
 
 **OTHER CERTIFICATIONS**
 
-* [TensorFlow Developer Certificate (Google)](images/tensorflor-developer-certificate.png)
+* [TensorFlow Developer Certificate (Google)](images/tensorflow-developer-certificate.png)
 * [Machine Learning (Standford Online - Coursera)](images/machine-learning.png)
 * [TensorFlow In Practice (deeplearning.ai - Coursera)](images/tensorflow-in-practice.png)
 * [Developing Scalable Apps with Java and Google App Engine (Google - Udacity)](images/developing-apps-java-app-engine.png)
