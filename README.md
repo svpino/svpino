@@ -41,7 +41,7 @@ TensorFlow Developer Certificate (Google), Machine Learning (Standford Universit
 
 I've also accumulated seven different certifications from 2001 to 2015 covering OO Concepts, Java, C, Javascript, C# development, Mobile and Google's App Engine development with Java.
 
-![Certificates](certificates.jpg)
+![Certificates](images/certificates.jpg)
 
 ### My most relevant technical skills
 
