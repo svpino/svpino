@@ -4,9 +4,6 @@ My name is Santiago, and I'm a **Computer Scientist** focusing on applied **Mach
 
 I care deeply about unlocking the power of technology for individuals and businesses, so they can use computers in a way that was previously unrealistic for them. I find joy in ambiguity and unknown and feel more engaged when working on problems that can't be solved by merely searching the web or reading a book. Bonus points if I can collaborate with a team of like-minded engineers!
 
-- 🔭 I'm currently working on **Computer Vision** models to augment [Spot](https://www.bostondynamics.com/spot) capabilities.
-- 🌱 I'm currently learning a lot about **SageMaker**. 
-
 ### This is where I've worked during the last 10 years
 
 **DIRECTOR OF COMPUTER VISION SOLUTIONS**
