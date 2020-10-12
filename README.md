@@ -2,7 +2,7 @@
 
 My name is Santiago, and I'm a **Computer Scientist** focusing on applied **Machine Learning**. I have more than two decades of experience building software to solve exciting and —sometimes— hard problems.
 
-I care deeply about unlocking the power of technology for individuals and businesses, so they can use computers in a way that was previously unrealistic for them. I find joy in ambiguity and unknown and feel more engaged when working on problems that can't be solved by merely searching the web or reading a book. Bonus points if I can collaborate with a team of like-minded engineers!
+I care deeply about unlocking the power of technology for individuals and businesses, so they can use computers in a way that was previously unrealistic for them. I find joy in ambiguity and feel more engaged when working on problems that can't be solved by merely searching the web or reading a book. Bonus points if I can collaborate with a team of like-minded engineers!
 
 ### This is where I've worked during the last 10 years
 
